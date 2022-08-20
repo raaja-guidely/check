@@ -1,9 +1,10 @@
 {
   "Post": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
+    [{"id":"1","title":"testing","link":"testing","description":"testing testing testing testing testing testing testing
+testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing
+testing testing testing testing testing testing testing testing
+","image":"https:\/\/cdn.guidely.in\/blogs\/165286806897.png","user_id":"0","status":"1","created_at":"2022-08-20
+11:38:49","updated_at":"2022-08-20 11:38:49","deleted_at":null}]
   },
   "Comment": {
     "body": { "string": {} },
